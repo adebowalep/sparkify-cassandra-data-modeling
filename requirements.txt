@@ -1,0 +1,7 @@
+# Versions below are the ones the notebook was last executed with (Python 3.12).
+cassandra-driver>=3.30,<4
+pandas>=2.2,<3
+
+# Running the notebook and the tests
+notebook>=7
+pytest>=8
